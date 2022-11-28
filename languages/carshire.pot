@@ -1,0 +1,790 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: carshire version 1.0\n"
+"POT-Creation-Date: 2019-05-21 14:13+0500\n"
+"PO-Revision-Date: 2019-05-21 14:13+0500\n"
+"Last-Translator: amir <amirkhan0617@gmail.com>\n"
+"Language-Team: Template Path <muhibbur@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;_n;_x\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:10
+msgid "404"
+msgstr ""
+
+#: ../404.php:12 ../archive.php:39 ../author.php:39 ../category.php:21
+#: ../index.php:70 ../page.php:43 ../search.php:43 ../single.php:48
+#: ../tag.php:41 ../tpl-visual_composer.php:25
+#: ../woocommerce/archive-product.php:43 ../woocommerce/single-product.php:33
+msgid "you are here: "
+msgstr ""
+
+#: ../404.php:31
+msgid "Not Found "
+msgstr ""
+
+#: ../404.php:32
+msgid ""
+"Look like something went wrong! The page you were looking for is not here. "
+msgstr ""
+
+#: ../404.php:33
+msgid "BACK TOP HOME"
+msgstr ""
+
+#: ../blog.php:29 ../single.php:136
+msgid "Posted on "
+msgstr ""
+
+#: ../blog.php:29 ../includes/library/widgets.php:24 ../single.php:136
+msgid "by"
+msgstr ""
+
+#: ../blog.php:33
+msgid "READ MORE"
+msgstr ""
+
+#: ../comments.php:35
+msgid "comments"
+msgstr ""
+
+#: ../comments.php:67
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:69
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:71
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:80
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:96
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../footer.php:7
+msgid "Make an appointment"
+msgstr ""
+
+#: ../footer.php:8
+msgid "Contact Us"
+msgstr ""
+
+#: ../footer.php:65
+msgid "Layout"
+msgstr ""
+
+#: ../footer.php:66
+msgid "Full"
+msgstr ""
+
+#: ../footer.php:67
+msgid "Box"
+msgstr ""
+
+#: ../footer.php:68
+msgid "Colors"
+msgstr ""
+
+#: ../functions.php:38
+msgid "Main Menu"
+msgstr ""
+
+#: ../functions.php:61
+msgid "strong yellow"
+msgstr ""
+
+#: ../functions.php:66
+msgid "strong white"
+msgstr ""
+
+#: ../functions.php:71
+msgid "light black"
+msgstr ""
+
+#: ../functions.php:76
+msgid "very light gray"
+msgstr ""
+
+#: ../functions.php:81
+msgid "very dark black"
+msgstr ""
+
+#: ../functions.php:89
+msgid "Small"
+msgstr ""
+
+#: ../functions.php:94
+msgid "Normal"
+msgstr ""
+
+#: ../functions.php:99
+msgid "Large"
+msgstr ""
+
+#: ../functions.php:104
+msgid "Huge"
+msgstr ""
+
+#: ../functions.php:118
+msgid "Default Sidebar"
+msgstr ""
+
+#: ../functions.php:120 ../functions.php:141
+msgid "Widgets in this area will be shown on the right-hand side."
+msgstr ""
+
+#: ../functions.php:128
+msgid "Footer Sidebar"
+msgstr ""
+
+#: ../functions.php:130
+msgid "Widgets in this area will be shown in Footer Area."
+msgstr ""
+
+#: ../functions.php:139
+msgid "Blog Listing"
+msgstr ""
+
+#: ../functions.php:258 ../functions.php:259 ../functions.php:265
+msgid "on"
+msgstr ""
+
+#: ../header-single.php:89
+msgid "Toggle navigation"
+msgstr ""
+
+#: ../header.php:63 ../header.php:67 ../header.php:83 ../header.php:99
+#: ../includes/modules/shortcodes/clients.php:27
+msgid "image"
+msgstr ""
+
+#: ../header.php:85
+msgid "Call Us Now"
+msgstr ""
+
+#: ../header.php:101
+msgid "Opening Hours"
+msgstr ""
+
+#: ../includes/library/functions.php:25 ../includes/library/widgets.php:134
+#: ../includes/library/widgets.php:408 ../includes/library/widgets.php:500
+msgid "All Categories"
+msgstr ""
+
+#: ../includes/library/functions.php:49
+msgid "No Sidebar"
+msgstr ""
+
+#: ../includes/library/functions.php:116
+msgid "Home"
+msgstr ""
+
+#: ../includes/library/functions.php:164 ../includes/library/functions.php:165
+#: ../includes/library/functions.php:166 ../includes/library/functions.php:167
+msgid "Archive for "
+msgstr ""
+
+#: ../includes/library/functions.php:168
+msgid "Search Results for "
+msgstr ""
+
+#: ../includes/library/functions.php:169
+msgid "404 - Not Found"
+msgstr ""
+
+#: ../includes/library/functions.php:187
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: ../includes/library/functions.php:214
+msgid "You must agreed the policy"
+msgstr ""
+
+#: ../includes/library/functions.php:224
+msgid "Registration Successful - An email is sent"
+msgstr ""
+
+#: ../includes/library/functions.php:228
+msgid "Username or email already exists.  Password inherited."
+msgstr ""
+
+#: ../includes/library/functions.php:241
+msgid "commenter"
+msgstr ""
+
+#: ../includes/library/functions.php:247
+msgid "posted"
+msgstr ""
+
+#: ../includes/library/functions.php:249
+msgid "Reply"
+msgstr ""
+
+#: ../includes/library/functions.php:279
+msgid "Name"
+msgstr ""
+
+#: ../includes/library/functions.php:279
+#: ../includes/modules/shortcodes/appointment_form.php:82
+msgid "Enter Your Name"
+msgstr ""
+
+#: ../includes/library/functions.php:280 ../includes/library/widgets.php:180
+#: ../includes/library/widgets.php:274
+msgid "Email"
+msgstr ""
+
+#: ../includes/library/functions.php:280
+#: ../includes/modules/shortcodes/appointment_form.php:85
+msgid "Enter Your Email Address"
+msgstr ""
+
+#: ../includes/library/functions.php:281
+msgid "Subject"
+msgstr ""
+
+#: ../includes/library/functions.php:281
+#: ../includes/modules/shortcodes/appointment_form.php:89
+msgid "Enter a Subject"
+msgstr ""
+
+#: ../includes/library/functions.php:283
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: ../includes/library/functions.php:295
+msgid "Comment"
+msgstr ""
+
+#: ../includes/library/functions.php:295
+msgid "Type Comment Here"
+msgstr ""
+
+#: ../includes/library/functions.php:298
+msgid "Your email address will not be published."
+msgstr ""
+
+#: ../includes/library/functions.php:303
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../includes/library/functions.php:304
+msgid "Cancel reply"
+msgstr ""
+
+#: ../includes/library/functions.php:305
+msgid "Submit "
+msgstr ""
+
+#: ../includes/library/functions.php:616
+msgid "Loading..."
+msgstr ""
+
+#: ../includes/library/functions.php:665
+msgid "logo"
+msgstr ""
+
+#: ../includes/library/widgets.php:8
+msgid "Carshire Latest Comments"
+msgstr ""
+
+#: ../includes/library/widgets.php:8
+msgid "Show the Latest Comments"
+msgstr ""
+
+#: ../includes/library/widgets.php:52
+msgid "Latest Comments"
+msgstr ""
+
+#: ../includes/library/widgets.php:57 ../includes/library/widgets.php:124
+#: ../includes/library/widgets.php:222 ../includes/library/widgets.php:314
+#: ../includes/library/widgets.php:398 ../includes/library/widgets.php:490
+msgid "Title: "
+msgstr ""
+
+#: ../includes/library/widgets.php:61
+msgid "No. of Comments:"
+msgstr ""
+
+#: ../includes/library/widgets.php:76
+msgid "Carshire Recent Posts with image"
+msgstr ""
+
+#: ../includes/library/widgets.php:76
+msgid "Show the recent posts with images"
+msgstr ""
+
+#: ../includes/library/widgets.php:119
+msgid "Recently Added"
+msgstr ""
+
+#: ../includes/library/widgets.php:128 ../includes/library/widgets.php:402
+#: ../includes/library/widgets.php:494
+msgid "No. of Posts:"
+msgstr ""
+
+#: ../includes/library/widgets.php:133 ../includes/library/widgets.php:407
+#: ../includes/library/widgets.php:499
+msgid "Category"
+msgstr ""
+
+#: ../includes/library/widgets.php:164
+msgid "Carshire Contact Info Sidebar"
+msgstr ""
+
+#: ../includes/library/widgets.php:164 ../includes/library/widgets.php:259
+msgid "Show the Contact Information"
+msgstr ""
+
+#: ../includes/library/widgets.php:181 ../includes/library/widgets.php:275
+msgid "Phone"
+msgstr ""
+
+#: ../includes/library/widgets.php:182 ../includes/library/widgets.php:276
+msgid "Fax"
+msgstr ""
+
+#: ../includes/library/widgets.php:183 ../includes/library/widgets.php:277
+msgid "Website"
+msgstr ""
+
+#: ../includes/library/widgets.php:212 ../includes/library/widgets.php:304
+msgid "Contact Information"
+msgstr ""
+
+#: ../includes/library/widgets.php:226 ../includes/library/widgets.php:318
+msgid "Text:"
+msgstr ""
+
+#: ../includes/library/widgets.php:230 ../includes/library/widgets.php:322
+msgid "Email:"
+msgstr ""
+
+#: ../includes/library/widgets.php:234 ../includes/library/widgets.php:326
+msgid "Phone:"
+msgstr ""
+
+#: ../includes/library/widgets.php:238 ../includes/library/widgets.php:330
+msgid "Fax:"
+msgstr ""
+
+#: ../includes/library/widgets.php:242 ../includes/library/widgets.php:334
+msgid "website:"
+msgstr ""
+
+#: ../includes/library/widgets.php:259
+msgid "Carshire Contact Info"
+msgstr ""
+
+#: ../includes/library/widgets.php:350
+msgid "Carshire Services Posts"
+msgstr ""
+
+#: ../includes/library/widgets.php:350
+msgid "Show the recent posts of services"
+msgstr ""
+
+#: ../includes/library/widgets.php:393
+msgid "Our Services"
+msgstr ""
+
+#: ../includes/library/widgets.php:442
+msgid "Carshire Faqs Posts"
+msgstr ""
+
+#: ../includes/library/widgets.php:442
+msgid "Show the recent posts of faqs"
+msgstr ""
+
+#: ../includes/library/widgets.php:485
+msgid "Our Support"
+msgstr ""
+
+#: ../includes/library/widgets.php:534
+msgid "Carshire Contact form"
+msgstr ""
+
+#: ../includes/library/widgets.php:564
+msgid "Contact Form"
+msgstr ""
+
+#: ../includes/library/widgets.php:568
+msgid "Title:"
+msgstr ""
+
+#: ../includes/library/widgets.php:572
+msgid "Contact Form Code:"
+msgstr ""
+
+#: ../includes/loader.php:312 ../includes/loader.php:314
+msgid "Theme Options"
+msgstr ""
+
+#: ../includes/loader.php:320
+msgid "Facebook"
+msgstr ""
+
+#: ../includes/loader.php:320
+msgid "Twitter"
+msgstr ""
+
+#: ../includes/loader.php:320
+msgid "Dribble"
+msgstr ""
+
+#: ../includes/loader.php:320
+msgid "Github"
+msgstr ""
+
+#: ../includes/loader.php:322
+msgid "Flickr"
+msgstr ""
+
+#: ../includes/loader.php:322
+msgid "Google+"
+msgstr ""
+
+#: ../includes/loader.php:322
+msgid "Youtube"
+msgstr ""
+
+#: ../includes/modules/shortcodes/appointment_form.php:16
+msgid "Vehicle Information"
+msgstr ""
+
+#: ../includes/modules/shortcodes/appointment_form.php:19
+msgid "Vehicle Year"
+msgstr ""
+
+#: ../includes/modules/shortcodes/appointment_form.php:28
+msgid "Vehicle Make"
+msgstr ""
+
+#: ../includes/modules/shortcodes/appointment_form.php:30
+#: ../includes/modules/shortcodes/appointment_form.php:53
+msgid "Choose..."
+msgstr ""
+
+#: ../includes/modules/shortcodes/appointment_form.php:38
+#: ../includes/modules/shortcodes/appointment_form.php:39
+msgid "Vehicle Mileage"
+msgstr ""
+
+#: ../includes/modules/shortcodes/appointment_form.php:44
+msgid "Appoinment Information"
+msgstr ""
+
+#: ../includes/modules/shortcodes/appointment_form.php:47
+msgid "Appoinment Date"
+msgstr ""
+
+#: ../includes/modules/shortcodes/appointment_form.php:48
+msgid "MM/DD/YYYY"
+msgstr ""
+
+#: ../includes/modules/shortcodes/appointment_form.php:51
+msgid "Appoinment Timeframe"
+msgstr ""
+
+#: ../includes/modules/shortcodes/appointment_form.php:63
+msgid "Select Services Need"
+msgstr ""
+
+#: ../includes/modules/shortcodes/appointment_form.php:78
+msgid "Contact Details"
+msgstr ""
+
+#: ../includes/modules/shortcodes/appointment_form.php:94
+msgid "Type Message Here"
+msgstr ""
+
+#: ../includes/modules/shortcodes/appointment_form.php:100
+msgid "Send Message"
+msgstr ""
+
+#: ../includes/modules/shortcodes/blog.php:73
+msgid "posted on"
+msgstr ""
+
+#: ../includes/modules/shortcodes/blog.php:77
+#: ../includes/modules/shortcodes/our_services.php:34 ../sidebar.php:35
+msgid "Read More"
+msgstr ""
+
+#: ../includes/modules/shortcodes/gallery_3_column.php:99
+#: ../includes/modules/shortcodes/gallery_4_column.php:99
+#: ../includes/modules/shortcodes/our_features.php:69
+#: ../includes/modules/shortcodes/our_services.php:34
+#: ../includes/modules/shortcodes/our_services.php:42
+#: ../includes/modules/shortcodes/services_4_column.php:34
+#: ../includes/modules/shortcodes/services_4_column.php:42
+msgid "GET A QUOTE"
+msgstr ""
+
+#: ../includes/modules/shortcodes/gallery_3_column.php:151
+#: ../includes/modules/shortcodes/gallery_4_column.php:151
+#: ../includes/modules/shortcodes/team_4_column.php:181
+msgid "all"
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:610
+msgid "Update Required"
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:914
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2620
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3667
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1021
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1021
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1024
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:1024
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2429
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2479
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2483
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2487
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2569
+msgid "unknown"
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2620
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2771
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:2995
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3021
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3039
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../includes/thirdparty/tgm-plugin-activation/class-tgm-plugin-activation.php:3604
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/plugins.php:64
+msgid "Theme Support (Required)"
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/plugins.php:75
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/plugins.php:86
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/plugins.php:97
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../includes/thirdparty/tgm-plugin-activation/plugins.php:103
+msgid "Woocommerce"
+msgstr ""
+
+#: ../includes/vc_map.php:6
+msgid "bbPress Forums"
+msgstr ""
+
+#: ../includes/vc_map.php:9
+msgid "Jollyall"
+msgstr ""
+
+#: ../includes/vc_map.php:16
+msgid "Forum"
+msgstr ""
+
+#: ../includes/vc_map.php:179
+msgid "Container"
+msgstr ""
+
+#: ../includes/vc_map.php:182
+msgid "Choose whether you want to add a container before row or not."
+msgstr ""
+
+#: ../page.php:114 ../single.php:144
+msgid "Pages: "
+msgstr ""
+
+#: ../search.php:134
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../searchform.php:3
+msgid "search for something"
+msgstr ""
+
+#: ../sidebar.php:15
+msgid "by : "
+msgstr ""
+
+#: ../sidebar.php:17
+msgid "in : "
+msgstr ""
+
+#: ../sidebar.php:19
+msgid " 123 Likes "
+msgstr ""
+
+#: ../sidebar.php:21
+msgid " Print "
+msgstr ""
+
+#: ../single.php:156
+msgid "Share This Post:"
+msgstr ""
+
+#: ../single.php:190
+msgid "ABOUT THE AUTHOR"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:24
+msgid "Subtotal"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:61 ../woocommerce/cart/cart.php:33
+msgid "Total"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:30
+msgid "Product"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:31
+msgid "Price"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:32
+msgid "Quantity"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:54
+msgid "Remove this item"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:88
+msgid "Available on backorder"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:135
+msgid "Coupon:"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:140
+msgid "Update cart"
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr ""
+
+#: ../woocommerce/checkout/payment.php:33
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: ../woocommerce/checkout/payment.php:33
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#. translators: $1 and $2 opening and closing emphasis tags respectively
+#: ../woocommerce/checkout/payment.php:42
+#, php-format
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the %1$sUpdate Totals%2$s button before placing your order. "
+"You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: ../woocommerce/checkout/payment.php:44
+msgid "Update totals"
+msgstr ""
+
+#: ../woocommerce/content-product.php:87
+msgid "Add to cart"
+msgstr ""
+
+#: ../woocommerce/content-single-product.php:71
+msgid "Price :"
+msgstr ""
+
+#: ../woocommerce/single-product/related.php:28
+msgid "Related Products"
+msgstr ""
